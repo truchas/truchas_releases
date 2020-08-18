@@ -1,0 +1,13 @@
+{
+    "data_file_version": 1,
+    "dev": [
+        {
+            "commit_sha": "3c608917bb28a9f9606a44c69f1096c831ffe0a7",
+            "created": "2020-08-18 22:50:18.863288+00:00",
+            "filename": "truchas-20.08-34-g3c60891-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/20.08-34-g3c60891/truchas-20.08-34-g3c60891-Linux.tar.bz2",
+            "version": "20.08-34-g3c60891"
+        }
+    ],
+    "release": []
+}
