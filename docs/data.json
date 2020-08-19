@@ -23,5 +23,13 @@
             "version": "20.08-39-gee75bec"
         }
     ],
-    "release": []
+    "release": [
+        {
+            "commit_sha": "c7038b84d226933726cc3800fe96fa85cb41d314",
+            "created": "2020-08-14 23:10:38.804920+00:00",
+            "filename": "truchas-20.08-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/20.08/truchas-20.08-Linux.tar.bz2",
+            "version": "20.08"
+        }
+    ]
 }
