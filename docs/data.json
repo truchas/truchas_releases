@@ -121,6 +121,13 @@
             "filename": "truchas-20.08.3-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/20.08.3/truchas-20.08.3-Linux.tar.bz2",
             "version": "20.08.3"
+        },
+        {
+            "commit_sha": "fec47a4d33105c6d3f134ab0e98397a2b4d23097",
+            "created": "2020-08-20 22:44:53.276915+00:00",
+            "filename": "truchas-20.08.2-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/20.08.2/truchas-20.08.2-Linux.tar.bz2",
+            "version": "20.08.2"
         }
     ]
 }
