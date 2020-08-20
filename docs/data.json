@@ -77,6 +77,13 @@
             "filename": "truchas-20.08.1-15-gcdd2806-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/20.08.1-15-gcdd2806/truchas-20.08.1-15-gcdd2806-Linux.tar.bz2",
             "version": "20.08.1-15-gcdd2806"
+        },
+        {
+            "commit_sha": "3b581670ac30e3fcd2c2f0c6bda078c3c6583b25",
+            "created": "2020-08-20 16:03:29.434353+00:00",
+            "filename": "truchas-20.08.1-17-g3b58167-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/20.08.1-17-g3b58167/truchas-20.08.1-17-g3b58167-Linux.tar.bz2",
+            "version": "20.08.1-17-g3b58167"
         }
     ],
     "release": [
