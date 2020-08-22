@@ -105,6 +105,13 @@
             "filename": "truchas-20.08.3-2-g795930f-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/20.08.3-2-g795930f/truchas-20.08.3-2-g795930f-Linux.tar.bz2",
             "version": "20.08.3-2-g795930f"
+        },
+        {
+            "commit_sha": "d05d05e56dff9bc5f2f80d5f03119ab7868f44fe",
+            "created": "2020-08-22 14:37:52.163910+00:00",
+            "filename": "truchas-20.08.3-3-gd05d05e-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/20.08.3-3-gd05d05e/truchas-20.08.3-3-gd05d05e-Linux.tar.bz2",
+            "version": "20.08.3-3-gd05d05e"
         }
     ],
     "release": [
