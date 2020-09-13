@@ -147,6 +147,13 @@
             "filename": "truchas-20.09-7-gb7db4ef-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/20.09-7-gb7db4ef/truchas-20.09-7-gb7db4ef-Linux.tar.bz2",
             "version": "20.09-7-gb7db4ef"
+        },
+        {
+            "commit_sha": "bbddefe8c58999539087240de9220243c976fd5a",
+            "created": "2020-09-13 05:54:52.727408+00:00",
+            "filename": "truchas-20.09-13-gbbddefe-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/20.09-13-gbbddefe/truchas-20.09-13-gbbddefe-Linux.tar.bz2",
+            "version": "20.09-13-gbbddefe"
         }
     ],
     "release": [
