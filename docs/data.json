@@ -161,6 +161,13 @@
             "filename": "truchas-20.09-16-ga9d9c2a-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/20.09-16-ga9d9c2a/truchas-20.09-16-ga9d9c2a-Linux.tar.bz2",
             "version": "20.09-16-ga9d9c2a"
+        },
+        {
+            "commit_sha": "1cf46705a3371a355e4f498d55930fec4376c02d",
+            "created": "2020-09-16 02:33:40.588772+00:00",
+            "filename": "truchas-20.09-18-g1cf4670-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/20.09-18-g1cf4670/truchas-20.09-18-g1cf4670-Linux.tar.bz2",
+            "version": "20.09-18-g1cf4670"
         }
     ],
     "release": [
