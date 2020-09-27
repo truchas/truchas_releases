@@ -196,6 +196,13 @@
             "filename": "truchas-20.09-23-g401f3c2-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/20.09-23-g401f3c2/truchas-20.09-23-g401f3c2-Linux.tar.bz2",
             "version": "20.09-23-g401f3c2"
+        },
+        {
+            "commit_sha": "5fd7a02a2190b15e623dddb9da5e61ef867c31e2",
+            "created": "2020-09-27 19:56:28.792386+00:00",
+            "filename": "truchas-20.09-25-g5fd7a02-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/20.09-25-g5fd7a02/truchas-20.09-25-g5fd7a02-Linux.tar.bz2",
+            "version": "20.09-25-g5fd7a02"
         }
     ],
     "release": [
