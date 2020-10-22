@@ -238,6 +238,13 @@
             "filename": "truchas-20.10-2-gcbc562e-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/20.10-2-gcbc562e/truchas-20.10-2-gcbc562e-Linux.tar.bz2",
             "version": "20.10-2-gcbc562e"
+        },
+        {
+            "commit_sha": "8772728ba5ec4d521fa59c3e7a13fb7793abcaf6",
+            "created": "2020-10-22 19:43:18.842402+00:00",
+            "filename": "truchas-20.10-4-g8772728-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/20.10-4-g8772728/truchas-20.10-4-g8772728-Linux.tar.bz2",
+            "version": "20.10-4-g8772728"
         }
     ],
     "release": [
