@@ -245,6 +245,13 @@
             "filename": "truchas-20.10-4-g8772728-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/20.10-4-g8772728/truchas-20.10-4-g8772728-Linux.tar.bz2",
             "version": "20.10-4-g8772728"
+        },
+        {
+            "commit_sha": "78ce9948d2bb31854f49059f66bffd743e390161",
+            "created": "2020-10-30 02:39:53.642284+00:00",
+            "filename": "truchas-20.10-6-g78ce994-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/20.10-6-g78ce994/truchas-20.10-6-g78ce994-Linux.tar.bz2",
+            "version": "20.10-6-g78ce994"
         }
     ],
     "release": [
