@@ -294,6 +294,13 @@
             "filename": "truchas-20.11.1-2-gbe3ad6f-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/20.11.1-2-gbe3ad6f/truchas-20.11.1-2-gbe3ad6f-Linux.tar.bz2",
             "version": "20.11.1-2-gbe3ad6f"
+        },
+        {
+            "commit_sha": "94aab608e435342039605d54e22a7294b4d15007",
+            "created": "2020-12-02 05:38:32.581151+00:00",
+            "filename": "truchas-20.11.1-3-g94aab60-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/20.11.1-3-g94aab60/truchas-20.11.1-3-g94aab60-Linux.tar.bz2",
+            "version": "20.11.1-3-g94aab60"
         }
     ],
     "release": [
