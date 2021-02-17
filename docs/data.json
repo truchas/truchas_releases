@@ -329,6 +329,13 @@
             "filename": "truchas-21.02.1-4-gdb43ab6-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.02.1-4-gdb43ab6/truchas-21.02.1-4-gdb43ab6-Linux.tar.bz2",
             "version": "21.02.1-4-gdb43ab6"
+        },
+        {
+            "commit_sha": "ce31b9763132d2f17e7dad83123a9654f7b2d043",
+            "created": "2021-02-17 21:12:42.747454+00:00",
+            "filename": "truchas-21.02.1-6-gce31b97-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/21.02.1-6-gce31b97/truchas-21.02.1-6-gce31b97-Linux.tar.bz2",
+            "version": "21.02.1-6-gce31b97"
         }
     ],
     "release": [
