@@ -343,6 +343,13 @@
             "filename": "truchas-21.02.1-8-ga81f933-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.02.1-8-ga81f933/truchas-21.02.1-8-ga81f933-Linux.tar.bz2",
             "version": "21.02.1-8-ga81f933"
+        },
+        {
+            "commit_sha": "7f80d8bb4d7785901f6b7cab4b14ab1320f09a79",
+            "created": "2021-02-24 17:59:26.440714+00:00",
+            "filename": "truchas-21.02.1-10-g7f80d8b-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/21.02.1-10-g7f80d8b/truchas-21.02.1-10-g7f80d8b-Linux.tar.bz2",
+            "version": "21.02.1-10-g7f80d8b"
         }
     ],
     "release": [
