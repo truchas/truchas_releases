@@ -357,6 +357,13 @@
             "filename": "truchas-21.02.1-17-g67bebdf-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.02.1-17-g67bebdf/truchas-21.02.1-17-g67bebdf-Linux.tar.bz2",
             "version": "21.02.1-17-g67bebdf"
+        },
+        {
+            "commit_sha": "d4a8a89c6d8d997dbe44be0ab03c4dd249b4f3dd",
+            "created": "2021-02-27 15:49:37.602769+00:00",
+            "filename": "truchas-21.02.1-19-gd4a8a89-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/21.02.1-19-gd4a8a89/truchas-21.02.1-19-gd4a8a89-Linux.tar.bz2",
+            "version": "21.02.1-19-gd4a8a89"
         }
     ],
     "release": [
