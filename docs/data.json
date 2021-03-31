@@ -378,6 +378,13 @@
             "filename": "truchas-21.04-2-g412e7eb-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.04-2-g412e7eb/truchas-21.04-2-g412e7eb-Linux.tar.bz2",
             "version": "21.04-2-g412e7eb"
+        },
+        {
+            "commit_sha": "3b3b23c1f156aa0f0b21f129eb656e05742cb8b1",
+            "created": "2021-03-31 23:42:45.666736+00:00",
+            "filename": "truchas-21.04-4-g3b3b23c-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/21.04-4-g3b3b23c/truchas-21.04-4-g3b3b23c-Linux.tar.bz2",
+            "version": "21.04-4-g3b3b23c"
         }
     ],
     "release": [
