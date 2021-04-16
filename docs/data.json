@@ -406,6 +406,13 @@
             "filename": "truchas-21.04-16-gedca0dc-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.04-16-gedca0dc/truchas-21.04-16-gedca0dc-Linux.tar.bz2",
             "version": "21.04-16-gedca0dc"
+        },
+        {
+            "commit_sha": "34fcbe298834cb34c98ad53dd2a494a17753a25c",
+            "created": "2021-04-16 14:04:07.103736+00:00",
+            "filename": "truchas-21.04-20-g34fcbe2-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/21.04-20-g34fcbe2/truchas-21.04-20-g34fcbe2-Linux.tar.bz2",
+            "version": "21.04-20-g34fcbe2"
         }
     ],
     "release": [
