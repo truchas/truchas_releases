@@ -441,6 +441,13 @@
             "filename": "truchas-21.05-4-g40ddacb-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.05-4-g40ddacb/truchas-21.05-4-g40ddacb-Linux.tar.bz2",
             "version": "21.05-4-g40ddacb"
+        },
+        {
+            "commit_sha": "95224cfa1d6ba38b2200c58e4716eba5e4ef42fc",
+            "created": "2021-05-11 21:13:54.549374+00:00",
+            "filename": "truchas-21.05-6-g95224cf-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/21.05-6-g95224cf/truchas-21.05-6-g95224cf-Linux.tar.bz2",
+            "version": "21.05-6-g95224cf"
         }
     ],
     "release": [
