@@ -448,6 +448,13 @@
             "filename": "truchas-21.05-6-g95224cf-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.05-6-g95224cf/truchas-21.05-6-g95224cf-Linux.tar.bz2",
             "version": "21.05-6-g95224cf"
+        },
+        {
+            "commit_sha": "5e942e9e1e9f37a49456d68a363827dd9f631c26",
+            "created": "2021-05-13 15:49:37.561424+00:00",
+            "filename": "truchas-21.05-8-g5e942e9-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/21.05-8-g5e942e9/truchas-21.05-8-g5e942e9-Linux.tar.bz2",
+            "version": "21.05-8-g5e942e9"
         }
     ],
     "release": [
