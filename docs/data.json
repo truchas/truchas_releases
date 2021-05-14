@@ -462,6 +462,13 @@
             "filename": "truchas-21.05-10-gbe7fdc8-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.05-10-gbe7fdc8/truchas-21.05-10-gbe7fdc8-Linux.tar.bz2",
             "version": "21.05-10-gbe7fdc8"
+        },
+        {
+            "commit_sha": "223e101e4c748720684a3393c5e5e9b92bf59c16",
+            "created": "2021-05-14 18:02:43.542774+00:00",
+            "filename": "truchas-21.05-12-g223e101-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/21.05-12-g223e101/truchas-21.05-12-g223e101-Linux.tar.bz2",
+            "version": "21.05-12-g223e101"
         }
     ],
     "release": [
