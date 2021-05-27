@@ -476,6 +476,13 @@
             "filename": "truchas-21.05.1-2-g101bf87-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.05.1-2-g101bf87/truchas-21.05.1-2-g101bf87-Linux.tar.bz2",
             "version": "21.05.1-2-g101bf87"
+        },
+        {
+            "commit_sha": "73b800a08abe3d4218c4e0c3e8a2ad23ba5c9f1c",
+            "created": "2021-05-27 23:06:38.303849+00:00",
+            "filename": "truchas-21.05.1-4-g73b800a-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/21.05.1-4-g73b800a/truchas-21.05.1-4-g73b800a-Linux.tar.bz2",
+            "version": "21.05.1-4-g73b800a"
         }
     ],
     "release": [
