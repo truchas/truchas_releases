@@ -539,6 +539,13 @@
             "filename": "truchas-21.06-7-gf31bf70-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.06-7-gf31bf70/truchas-21.06-7-gf31bf70-Linux.tar.bz2",
             "version": "21.06-7-gf31bf70"
+        },
+        {
+            "commit_sha": "469ba89f1306e62ab8081d0e5d2c4fe2008251cc",
+            "created": "2021-07-15 21:52:00.892030+00:00",
+            "filename": "truchas-21.06-10-g469ba89-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/21.06-10-g469ba89/truchas-21.06-10-g469ba89-Linux.tar.bz2",
+            "version": "21.06-10-g469ba89"
         }
     ],
     "release": [
