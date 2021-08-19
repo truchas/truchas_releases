@@ -574,6 +574,13 @@
             "filename": "truchas-21.07-8-gb04a45c-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.07-8-gb04a45c/truchas-21.07-8-gb04a45c-Linux.tar.bz2",
             "version": "21.07-8-gb04a45c"
+        },
+        {
+            "commit_sha": "c060bf78bcef25c7d2b5ff9119469ddb99caf6ff",
+            "created": "2021-08-19 19:09:04.286338+00:00",
+            "filename": "truchas-21.07-10-gc060bf7-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/21.07-10-gc060bf7/truchas-21.07-10-gc060bf7-Linux.tar.bz2",
+            "version": "21.07-10-gc060bf7"
         }
     ],
     "release": [
