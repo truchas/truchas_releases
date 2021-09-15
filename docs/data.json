@@ -595,6 +595,13 @@
             "filename": "truchas-21.08-5-g8aebe9e-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.08-5-g8aebe9e/truchas-21.08-5-g8aebe9e-Linux.tar.bz2",
             "version": "21.08-5-g8aebe9e"
+        },
+        {
+            "commit_sha": "8ca3c56c55729ce8b4dd58f72c70a44f556f4087",
+            "created": "2021-09-15 20:29:58.589297+00:00",
+            "filename": "truchas-21.08-7-g8ca3c56-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/21.08-7-g8ca3c56/truchas-21.08-7-g8ca3c56-Linux.tar.bz2",
+            "version": "21.08-7-g8ca3c56"
         }
     ],
     "release": [
