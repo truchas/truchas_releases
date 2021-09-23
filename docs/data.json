@@ -723,6 +723,13 @@
             "filename": "truchas-21.08-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.08/truchas-21.08-Linux.tar.bz2",
             "version": "21.08"
+        },
+        {
+            "commit_sha": "ba7f8d215f8a1600e2df4b30e3ad8209d3ee15c5",
+            "created": "2021-09-23 19:16:08.421589+00:00",
+            "filename": "truchas-FY21-ASC-Final-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/FY21-ASC-Final/truchas-FY21-ASC-Final-Linux.tar.bz2",
+            "version": "FY21-ASC-Final"
         }
     ]
 }
