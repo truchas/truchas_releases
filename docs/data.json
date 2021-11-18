@@ -205,6 +205,13 @@
             "filename": "truchas-21.10-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.10/truchas-21.10-Linux.tar.bz2",
             "version": "21.10"
+        },
+        {
+            "commit_sha": "f2ee68d0f995e93ef8fb79fa7529cbab9e5cbf44",
+            "created": "2021-11-18 23:26:16.075579+00:00",
+            "filename": "truchas-21.11-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/21.11/truchas-21.11-Linux.tar.bz2",
+            "version": "21.11"
         }
     ]
 }
