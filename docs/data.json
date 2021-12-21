@@ -98,6 +98,13 @@
             "filename": "truchas-21.11-9-ga9a51f0-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.11-9-ga9a51f0/truchas-21.11-9-ga9a51f0-Linux.tar.bz2",
             "version": "21.11-9-ga9a51f0"
+        },
+        {
+            "commit_sha": "07aefa5fffccff1a4faf53311cbae483eaa0f3f5",
+            "created": "2021-12-21 22:16:32.771406+00:00",
+            "filename": "truchas-21.11-13-g07aefa5-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/21.11-13-g07aefa5/truchas-21.11-13-g07aefa5-Linux.tar.bz2",
+            "version": "21.11-13-g07aefa5"
         }
     ],
     "release": [
