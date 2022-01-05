@@ -112,6 +112,13 @@
             "filename": "truchas-21.12-2-gf58ae57-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/21.12-2-gf58ae57/truchas-21.12-2-gf58ae57-Linux.tar.bz2",
             "version": "21.12-2-gf58ae57"
+        },
+        {
+            "commit_sha": "2a9ddf1b121fe7e9c2db4f451e7b35c11c87f357",
+            "created": "2022-01-05 21:31:33.677255+00:00",
+            "filename": "truchas-22.01-2-g2a9ddf1-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/22.01-2-g2a9ddf1/truchas-22.01-2-g2a9ddf1-Linux.tar.bz2",
+            "version": "22.01-2-g2a9ddf1"
         }
     ],
     "release": [
