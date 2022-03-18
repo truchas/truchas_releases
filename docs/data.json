@@ -147,6 +147,13 @@
             "filename": "truchas-22.02-9-g7c36c03-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/22.02-9-g7c36c03/truchas-22.02-9-g7c36c03-Linux.tar.bz2",
             "version": "22.02-9-g7c36c03"
+        },
+        {
+            "commit_sha": "6893153d3cac81c3043123a53c0b8b7a98edb4bc",
+            "created": "2022-03-18 17:18:57.508443+00:00",
+            "filename": "truchas-22.02-21-g6893153-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/22.02-21-g6893153/truchas-22.02-21-g6893153-Linux.tar.bz2",
+            "version": "22.02-21-g6893153"
         }
     ],
     "release": [
