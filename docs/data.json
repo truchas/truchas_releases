@@ -175,6 +175,13 @@
             "filename": "truchas-22.02-43-g68576ba-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/22.02-43-g68576ba/truchas-22.02-43-g68576ba-Linux.tar.bz2",
             "version": "22.02-43-g68576ba"
+        },
+        {
+            "commit_sha": "12fedfae19c583a3ffe8e6d4ce1fcc19ce2ac48e",
+            "created": "2022-04-13 18:49:23.212745+00:00",
+            "filename": "truchas-22.04-2-g12fedfa-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/22.04-2-g12fedfa/truchas-22.04-2-g12fedfa-Linux.tar.bz2",
+            "version": "22.04-2-g12fedfa"
         }
     ],
     "release": [
