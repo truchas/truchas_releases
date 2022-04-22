@@ -189,6 +189,13 @@
             "filename": "truchas-22.04-4-gd6ead30-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/22.04-4-gd6ead30/truchas-22.04-4-gd6ead30-Linux.tar.bz2",
             "version": "22.04-4-gd6ead30"
+        },
+        {
+            "commit_sha": "ae24cdc59326512f54e432f6306768769e197099",
+            "created": "2022-04-22 22:35:09.361937+00:00",
+            "filename": "truchas-22.04.1-6-gae24cdc-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/22.04.1-6-gae24cdc/truchas-22.04.1-6-gae24cdc-Linux.tar.bz2",
+            "version": "22.04.1-6-gae24cdc"
         }
     ],
     "release": [
