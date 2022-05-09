@@ -203,6 +203,13 @@
             "filename": "truchas-22.04.1-7-gdedeed7-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/22.04.1-7-gdedeed7/truchas-22.04.1-7-gdedeed7-Linux.tar.bz2",
             "version": "22.04.1-7-gdedeed7"
+        },
+        {
+            "commit_sha": "0de25aea114989a7acfb351c05a182c4aec635b8",
+            "created": "2022-05-09 22:02:16.633476+00:00",
+            "filename": "truchas-22.04.1-9-g0de25ae-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/22.04.1-9-g0de25ae/truchas-22.04.1-9-g0de25ae-Linux.tar.bz2",
+            "version": "22.04.1-9-g0de25ae"
         }
     ],
     "release": [
