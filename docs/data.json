@@ -217,6 +217,13 @@
             "filename": "truchas-22.04.1-11-g8efb1fd-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/22.04.1-11-g8efb1fd/truchas-22.04.1-11-g8efb1fd-Linux.tar.bz2",
             "version": "22.04.1-11-g8efb1fd"
+        },
+        {
+            "commit_sha": "eb9e414db19d034de084eb8782b986576a35e166",
+            "created": "2022-05-13 14:29:47.043958+00:00",
+            "filename": "truchas-22.04.1-13-geb9e414-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/22.04.1-13-geb9e414/truchas-22.04.1-13-geb9e414-Linux.tar.bz2",
+            "version": "22.04.1-13-geb9e414"
         }
     ],
     "release": [
