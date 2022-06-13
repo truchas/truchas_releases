@@ -231,6 +231,13 @@
             "filename": "truchas-22.04.1-15-g365da9e-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/22.04.1-15-g365da9e/truchas-22.04.1-15-g365da9e-Linux.tar.bz2",
             "version": "22.04.1-15-g365da9e"
+        },
+        {
+            "commit_sha": "f60ac6c83417fdfe8258fe60bf47e30043b66ef1",
+            "created": "2022-06-13 12:48:38.436336+00:00",
+            "filename": "truchas-22.06-3-gf60ac6c-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/22.06-3-gf60ac6c/truchas-22.06-3-gf60ac6c-Linux.tar.bz2",
+            "version": "22.06-3-gf60ac6c"
         }
     ],
     "release": [
