@@ -541,6 +541,13 @@
             "filename": "truchas-22.09.1-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/22.09.1/truchas-22.09.1-Linux.tar.bz2",
             "version": "22.09.1"
+        },
+        {
+            "commit_sha": "02573848bfb4c9cbe6dbf4a726c48103a4f01331",
+            "created": "2022-11-01 21:21:36.411426+00:00",
+            "filename": "truchas-22.11-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/22.11/truchas-22.11-Linux.tar.bz2",
+            "version": "22.11"
         }
     ]
 }
