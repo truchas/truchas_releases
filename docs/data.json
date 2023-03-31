@@ -455,6 +455,13 @@
             "filename": "truchas-23.03-10-g08a7334-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/23.03-10-g08a7334/truchas-23.03-10-g08a7334-Linux.tar.bz2",
             "version": "23.03-10-g08a7334"
+        },
+        {
+            "commit_sha": "d1f685a2e0eb13eb121f3d2276b5911b9642f54a",
+            "created": "2023-03-31 12:39:59.793663+00:00",
+            "filename": "truchas-23.03-12-gd1f685a-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/23.03-12-gd1f685a/truchas-23.03-12-gd1f685a-Linux.tar.bz2",
+            "version": "23.03-12-gd1f685a"
         }
     ],
     "release": [
