@@ -469,6 +469,13 @@
             "filename": "truchas-23.04-2-g2204b59-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/23.04-2-g2204b59/truchas-23.04-2-g2204b59-Linux.tar.bz2",
             "version": "23.04-2-g2204b59"
+        },
+        {
+            "commit_sha": "e784410eb471871886f2da1fc5e1e05be53e1ef7",
+            "created": "2023-04-05 19:20:04.918224+00:00",
+            "filename": "truchas-23.04-4-ge784410-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/23.04-4-ge784410/truchas-23.04-4-ge784410-Linux.tar.bz2",
+            "version": "23.04-4-ge784410"
         }
     ],
     "release": [
