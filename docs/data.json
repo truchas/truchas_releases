@@ -483,6 +483,13 @@
             "filename": "truchas-23.04-6-gdeef567-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/23.04-6-gdeef567/truchas-23.04-6-gdeef567-Linux.tar.bz2",
             "version": "23.04-6-gdeef567"
+        },
+        {
+            "commit_sha": "eb93f45a414101c939979fb4601384fa179dfd0e",
+            "created": "2023-05-09 22:04:11.540319+00:00",
+            "filename": "truchas-23.04-8-geb93f45-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/23.04-8-geb93f45/truchas-23.04-8-geb93f45-Linux.tar.bz2",
+            "version": "23.04-8-geb93f45"
         }
     ],
     "release": [
