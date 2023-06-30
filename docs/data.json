@@ -497,6 +497,13 @@
             "filename": "truchas-23.05-2-gff427ee-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/23.05-2-gff427ee/truchas-23.05-2-gff427ee-Linux.tar.bz2",
             "version": "23.05-2-gff427ee"
+        },
+        {
+            "commit_sha": "b96b5167b6426fdbac3d36fe9d2d27117f69dce4",
+            "created": "2023-06-30 01:14:34.110064+00:00",
+            "filename": "truchas-23.05-4-gb96b516-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/23.05-4-gb96b516/truchas-23.05-4-gb96b516-Linux.tar.bz2",
+            "version": "23.05-4-gb96b516"
         }
     ],
     "release": [
