@@ -511,6 +511,13 @@
             "filename": "truchas-23.06-2-g418dcee-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/23.06-2-g418dcee/truchas-23.06-2-g418dcee-Linux.tar.bz2",
             "version": "23.06-2-g418dcee"
+        },
+        {
+            "commit_sha": "fe65564909a3a09ce31bbbea4e15d8e5bbcd8d30",
+            "created": "2023-08-02 17:22:28.787066+00:00",
+            "filename": "truchas-23.06-5-gfe65564-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/23.06-5-gfe65564/truchas-23.06-5-gfe65564-Linux.tar.bz2",
+            "version": "23.06-5-gfe65564"
         }
     ],
     "release": [
