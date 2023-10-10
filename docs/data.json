@@ -525,6 +525,13 @@
             "filename": "truchas-23.06-8-gd992109-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/23.06-8-gd992109/truchas-23.06-8-gd992109-Linux.tar.bz2",
             "version": "23.06-8-gd992109"
+        },
+        {
+            "commit_sha": "8e1b984682e56846aebb387306977818eed9ed4a",
+            "created": "2023-10-10 21:19:20.177398+00:00",
+            "filename": "truchas-23.08-2-g8e1b984-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/23.08-2-g8e1b984/truchas-23.08-2-g8e1b984-Linux.tar.bz2",
+            "version": "23.08-2-g8e1b984"
         }
     ],
     "release": [
