@@ -553,6 +553,13 @@
             "filename": "truchas-23.12-2-gb64a3eb-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/23.12-2-gb64a3eb/truchas-23.12-2-gb64a3eb-Linux.tar.bz2",
             "version": "23.12-2-gb64a3eb"
+        },
+        {
+            "commit_sha": "c263f2a2a7400161d0506efa6a1f10e6c73938ee",
+            "created": "2024-02-29 19:09:51.955851+00:00",
+            "filename": "truchas-23.12-4-gc263f2a-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/23.12-4-gc263f2a/truchas-23.12-4-gc263f2a-Linux.tar.bz2",
+            "version": "23.12-4-gc263f2a"
         }
     ],
     "release": [
