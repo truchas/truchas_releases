@@ -567,6 +567,13 @@
             "filename": "truchas-24.03-7-g166bf91-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/24.03-7-g166bf91/truchas-24.03-7-g166bf91-Linux.tar.bz2",
             "version": "24.03-7-g166bf91"
+        },
+        {
+            "commit_sha": "1c7e9443cfc974f648401a9030d35a0d859399ec",
+            "created": "2024-04-19 21:05:43.872492+00:00",
+            "filename": "truchas-24.04-8-g1c7e944-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/24.04-8-g1c7e944/truchas-24.04-8-g1c7e944-Linux.tar.bz2",
+            "version": "24.04-8-g1c7e944"
         }
     ],
     "release": [
