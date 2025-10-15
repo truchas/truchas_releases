@@ -658,6 +658,13 @@
             "filename": "truchas-25.10-1-gd918074c-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/25.10-1-gd918074c/truchas-25.10-1-gd918074c-Linux.tar.bz2",
             "version": "25.10-1-gd918074c"
+        },
+        {
+            "commit_sha": "e5d67914c07f71dbc51a0997451525af17693003",
+            "created": "2025-10-15 19:03:55.548390+00:00",
+            "filename": "truchas-25.10-2-ge5d67914-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/25.10-2-ge5d67914/truchas-25.10-2-ge5d67914-Linux.tar.bz2",
+            "version": "25.10-2-ge5d67914"
         }
     ],
     "release": [
