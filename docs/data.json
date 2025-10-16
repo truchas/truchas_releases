@@ -665,6 +665,13 @@
             "filename": "truchas-25.10-2-ge5d67914-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/25.10-2-ge5d67914/truchas-25.10-2-ge5d67914-Linux.tar.bz2",
             "version": "25.10-2-ge5d67914"
+        },
+        {
+            "commit_sha": "2e9a1cd2d9abf5a7e8e56266e0d124f1db296020",
+            "created": "2025-10-16 17:13:28.790153+00:00",
+            "filename": "truchas-25.10-3-g2e9a1cd2-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/25.10-3-g2e9a1cd2/truchas-25.10-3-g2e9a1cd2-Linux.tar.bz2",
+            "version": "25.10-3-g2e9a1cd2"
         }
     ],
     "release": [
