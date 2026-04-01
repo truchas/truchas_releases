@@ -714,6 +714,13 @@
             "filename": "truchas-26.02-7-g0cdb3679-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/26.02-7-g0cdb3679/truchas-26.02-7-g0cdb3679-Linux.tar.bz2",
             "version": "26.02-7-g0cdb3679"
+        },
+        {
+            "commit_sha": "b90a6df5591568b43cb7bf00b434c7b556a5558d",
+            "created": "2026-04-01 23:43:43.507819+00:00",
+            "filename": "truchas-26.04-3-gb90a6df5-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/26.04-3-gb90a6df5/truchas-26.04-3-gb90a6df5-Linux.tar.bz2",
+            "version": "26.04-3-gb90a6df5"
         }
     ],
     "release": [
