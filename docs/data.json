@@ -700,6 +700,13 @@
             "filename": "truchas-25.12-4-g13eb976a-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/25.12-4-g13eb976a/truchas-25.12-4-g13eb976a-Linux.tar.bz2",
             "version": "25.12-4-g13eb976a"
+        },
+        {
+            "commit_sha": "d6c0f73a072ac413456dc4ce3935deaefc3afb93",
+            "created": "2026-04-01 19:13:49.790420+00:00",
+            "filename": "truchas-26.02-2-gd6c0f73a-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/26.02-2-gd6c0f73a/truchas-26.02-2-gd6c0f73a-Linux.tar.bz2",
+            "version": "26.02-2-gd6c0f73a"
         }
     ],
     "release": [
