@@ -1087,6 +1087,13 @@
             "filename": "truchas-26.05-Linux.tar.bz2",
             "url": "https://github.com/truchas/truchas_releases/releases/download/26.05/truchas-26.05-Linux.tar.bz2",
             "version": "26.05"
+        },
+        {
+            "commit_sha": "b5959d9782354279c888f51693cfca6a7ccf484d",
+            "created": "2026-10-07 16:09:21.945655+00:00",
+            "filename": "truchas-26.10-Linux.tar.bz2",
+            "url": "https://github.com/truchas/truchas_releases/releases/download/26.10/truchas-26.10-Linux.tar.bz2",
+            "version": "26.10"
         }
     ]
 }
